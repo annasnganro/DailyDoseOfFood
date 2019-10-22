@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Daily Dose Of Food</string>
+    <string name="food_name">Nama Makanan</string>
+    <string name="desc_food">Deskripsi Makanan</string>
+    <string name="my_name">Annas Casmawan Ahmad</string>
+    <string name="my_emal">annascsamanw@gmail.com</string>
+</resources>
